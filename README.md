@@ -4,4 +4,4 @@
 
 Unofficial Python implementation of *Fast Markov chain Monte Carlo for high dimensional Bayesian regression model with shrinkage priors*, article of R. Jin at A. Tan from the University of Iowa. Focus on the Bayesian Group Lasso.
 
-Realized during my last year at ENSAE Paris, together with Ryan Boustany.
+Realized with [Ryan Boustany](https://github.com/ryanboustany) at Ensae Paris. 
